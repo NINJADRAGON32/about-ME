@@ -4,9 +4,9 @@
 ### Introduction
 ##### My name is Matthew Howard. I am currently enrolled in the Computer Science program at SICTC. I do plan to enter the field of computer science, specifically with inventing and making tactical military grade gear
 
-[1]:https://en.wikipedia.org/wiki/Barack_Obama
-[2]:https://en.wikipedia.org/wiki/Elon_Musk
-[3]:https://en.wikipedia.org/wiki/Osama_bin_Laden
+[1]:https://www.donaldjtrump.com/
+[2]:https://www.youtube.com/channel/UCTrSsPMmZavLbc3Ex7VhjDg
+[3]:https://r.search.yahoo.com/_ylt=AwrNPyn3gVRkGawHENVXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1683288695/RO=10/RU=https%3a%2f%2fyoutube.fandom.com%2fwiki%2fSwaggerSouls/RK=2/RS=kbJT3OorxHx1wNC0yVamzvQsSZo-
 
 [here]:https://www.twitch.com/NINJADRAGON32
 
@@ -40,9 +40,9 @@ words only have **power** if you give them **power**
 
 ## People of Interest
 
-[Obama][1]<br>
+[donald trump][1]<br>
 <kbd>
-<img src="https://github.com/Duckydabs/AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
+<img src="https://github.com//AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
  </kbd><br>
 [Elon Musk][2]<br>
  

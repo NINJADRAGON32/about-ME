@@ -42,18 +42,18 @@ words only have **power** if you give them **power**
 
 [donald trump][1]<br>
 <kbd>
-<img src="https://github.com/NINJADRAGON32/about-ME/blob/main/DT.jpg">
+<img src=https://github.com/NINJADRAGON32/about-ME/blob/main/DT.jpg>
  </kbd><br>
 [Brandon Hererra][2]<br>
  
 <kbd>
-<img src=https://github.com/Duckydabs/AboutMe/blob/main/img/elon%20musk.jpg height="100px" width="200px">
+<img src=https://github.com/NINJADRAGON32/about-ME/blob/main/BH.jpg>
  </kbd><br>
  
 [Swaggersouls][3]<br>
 
 <kbd>
-<img src="https://github.com/NINJADRAGON32/about-ME/blob/main/SS.jpg">
+<img src=https://github.com/NINJADRAGON32/about-ME/blob/main/SS.jpg>
  </kbd> <br>
  
  ## Terms

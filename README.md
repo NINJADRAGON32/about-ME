@@ -44,13 +44,13 @@ words only have **power** if you give them **power**
 <kbd>
 <img src="https://github.com//AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
  </kbd><br>
-[Elon Musk][2]<br>
+[Brandon Hererra][2]<br>
  
 <kbd>
 <img src=https://github.com/Duckydabs/AboutMe/blob/main/img/elon%20musk.jpg height="100px" width="200px">
  </kbd><br>
  
-[Osama Bin Laden][3]<br>
+[Swaggersouls][3]<br>
 
 <kbd>
 <img src="https://github.com/Duckydabs/AboutMe/blob/main/img/image%20(3).png" height="100px" width="200px">
@@ -60,6 +60,6 @@ words only have **power** if you give them **power**
 
 |Terms| Definitions | My meaning |
 |:-| :----: | ---: |
-|Golbin| a mischievous, ugly creature resembling a dwarf | A person who is doing some tomfoolery |
-|Sicko Mode| Sicko Mode is a song by American rapper Travis Scott | When someone does something very insane |
-|Sheesh| used to express disbelief or exasperation. | A response to something exciting |
+|chad|a landlocked country in northern central Africa; population 14,000,000 (estimated 2015); capital, N'Djamena; official languages, French and Arabic. | a very cool man|
+|american| that of originating from america | a freedom loving chad |
+|nerd| a person who is extremely enthusiastic and knowledgeable about a particular subject, especially one of specialist or niche interest:|smaret person|

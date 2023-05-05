@@ -53,7 +53,7 @@ words only have **power** if you give them **power**
 [Swaggersouls][3]<br>
 
 <kbd>
-<img src="https://github.com/Duckydabs/AboutMe/blob/main/img/image%20(3).png" height="100px" width="200px">
+<img src="https://github.com/NINJADRAGON32/about-ME/blob/main/SS.jpg">
  </kbd> <br>
  
  ## Terms

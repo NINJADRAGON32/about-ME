@@ -42,7 +42,7 @@ words only have **power** if you give them **power**
 
 [donald trump][1]<br>
 <kbd>
-<img src="https://github.com//AboutMe/blob/main/img/obama.jpg" height="100px" width="200px">
+<img src="https://github.com/NINJADRAGON32/about-ME/blob/main/DT.jpg">
  </kbd><br>
 [Brandon Hererra][2]<br>
  

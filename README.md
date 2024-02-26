@@ -40,10 +40,8 @@ words only have **power** if you give them **power**
 
 ## People of Interest
 
-[donald trump][1]<br>
-<kbd>
-<img src=https://github.com/NINJADRAGON32/about-ME/blob/main/DT.jpg>
- </kbd><br>
+
+<br>
 [Brandon Hererra][2]<br>
  
 <kbd>

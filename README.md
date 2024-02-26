@@ -23,8 +23,9 @@ My hobbies include:
 
 My nightime routine
 
-1. get in bed
-2. sleep
+1. sort my hygeiene 
+2. get in bed
+3. sleep
 
 ## My Philosophy
 

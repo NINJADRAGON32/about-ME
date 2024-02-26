@@ -60,4 +60,4 @@ words only have **power** if you give them **power**
 |:-| :----: | ---: |
 |chad|a landlocked country in northern central Africa; population 14,000,000 (estimated 2015); capital, N'Djamena; official languages, French and Arabic. | a very cool man|
 |american| that of originating from america | a freedom loving chad |
-|nerd| a person who is extremely enthusiastic and knowledgeable about a particular subject, especially one of specialist or niche interest:|smaret person|
+|nerd| a person who is extremely enthusiastic and knowledgeable about a particular subject, especially one of specialist or niche interest:|smart person|

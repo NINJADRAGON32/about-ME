@@ -41,7 +41,7 @@ words only have **power** if you give them **power**
 ## People of Interest
 
 
-<br>
+<kbd>
 [Brandon Hererra][2]<br>
  
 <kbd>
